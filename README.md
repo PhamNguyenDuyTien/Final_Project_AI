@@ -3,7 +3,7 @@
 
 **Project môn học Trí tuệ nhân tạo**
 
-#Đề tài: **NHẬN DIỆN VÀ PHÁT HIỆN CÁC GIAI ĐOẠN CỦA BỆNH ALZHEIMER SỬ DỤNG THUẬT TOÁN CNN VÀ TRIỂN KHAI MODEL LÊN WEBSITE**
+# Đề tài: **NHẬN DIỆN VÀ PHÁT HIỆN CÁC GIAI ĐOẠN CỦA BỆNH ALZHEIMER SỬ DỤNG THUẬT TOÁN CNN VÀ TRIỂN KHAI MODEL LÊN WEBSITE**
 
 Suy giảm trí nhớ là thuật ngữ chung chỉ sự suy giảm khả năng trí tuệ nghiêm trọng đến nỗi ảnh hưởng đến cuộc sống hàng ngày. Mất trí nhớ là một ví dụ. Bệnh Alzheimer (mất trí nhớ) là loại suy giảm trí nhớ phổ biến nhất. Ở đề tài này, mình muốn đưa ra cái nhìn tổng quát về các giai đoạn của bệnh Alzheimer để mọi người có thể phát hiện và điều trị kịp thời, giảm thiểu tình trạng tử vong.
 
